@@ -5,18 +5,18 @@
 
 ## 🚀기간
 
-- 일정 : 2023.10.17 ~ ing
+- 일정 : 2023.10.18 ~ ing
 
-- 매주 x요일 x시에 Discord로 진행합니다.
+- 매주 화요일 10시에 Discord로 진행합니다.
 
 <br/>
 
 ## ✏️참가 인원
 
 
-| 김민석 | 공석 | 공석 | 공석 | 공석 |
+| 김민석 | 차수현 | 김승진 | 공석 | 공석 |
 | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브]() | [깃허브]() | [깃허브]() | [깃허브]() |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/suhyeoncha) | [깃허브](https://github.com/Promotion95) | [깃허브]() | [깃허브]() |
 
 
 
