@@ -162,7 +162,7 @@
 
 `New issue` 클릭 한다.
 
-![이미지](/programmers_level_0/김민석/설명1.PNG)
+![이미지](/이미지/설명1.PNG)
 
 
 <br/><br/>
@@ -171,13 +171,13 @@
 
 제목, 내용을 작성후 `submit` 하면 끝난다.
 
-![이미지](/programmers_level_0/김민석/설명2.PNG)
+![이미지](/이미지/설명2.PNG)
 
 
 <br/> <br/>
 
 ### 댓글 작성하는 방법.
 
-![이미지](/programmers_level_0/김민석/설명3.PNG)
+![이미지](/이미지/설명3.PNG)
 
 
