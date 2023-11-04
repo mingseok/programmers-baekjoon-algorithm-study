@@ -14,9 +14,13 @@
 ## ✏️참가 인원
 
 
-| 김민석 | 차수현 | 김승진 | 유주환 | 하도원 |
-| --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/suhyeoncha) | [깃허브](https://github.com/Promotion95) | [깃허브](https://github.com/toris-dev) | [깃허브](https://github.com/instagrampanda) |
+
+| 김민석 | 차수현 | 김승진 | 유주환 | 하도원 | 임대진 | 석하림 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/suhyeoncha) | [깃허브](https://github.com/Promotion95) | [깃허브](https://github.com/toris-dev) | [깃허브](https://github.com/instagrampanda) | [깃허브](https://github.com/limgoing) | [깃허브](https://github.com/harim-000) |
+
+
+
 
 
 
