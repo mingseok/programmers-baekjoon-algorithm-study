@@ -9,19 +9,6 @@
 
 - 매주 화요일 10시에 Discord로 진행합니다.
 
-<br/>
-
-## ✏️참가 인원
-
-
-
-| 김민석 | 차수현 | 김승진 | 유주환 | 하도원 | 임대진 | 석하림 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/suhyeoncha) | [깃허브](https://github.com/Promotion95) | [깃허브](https://github.com/toris-dev) | [깃허브](https://github.com/instagrampanda) | [깃허브](https://github.com/limgoing) | [깃허브](https://github.com/harim-000) |
-
-
-
-
 
 
 <br/>
@@ -116,8 +103,8 @@
 
 ```
 코딩 테스트 관련
-- 궁금한점
 - 노하우
+- 궁금한점
 - 좋은 참고 자료
 - 추천하고 싶은 문제
 - 자바로 코테 풀 시 좋은 스킬(=문법)
