@@ -1,0 +1,22 @@
+120889
+```java
+
+import java.util.Arrays;
+class Solution {
+    public int solution(int[] sides) {
+        int answer = 0;
+        
+        Arrays.sort(sides);
+        
+        int hap = sides[0] + sides[1];
+        if(sides[2] < hap){
+            answer = 1;
+        }else{
+            answer = 2;
+        }
+        
+        return answer;
+    }
+}
+
+```
