@@ -19,7 +19,7 @@
 
 | 김민석 | 임대진 | 석하림 | 이다원 |
 | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/limgoing) | [깃허브](https://github.com/harim-000) | [깃허브](https://github.com/midnightDW) |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/limgoing) | [깃허브](https://github.com/harim-000) | [깃허브](https://github.com/dawonss) |
 
 
 
