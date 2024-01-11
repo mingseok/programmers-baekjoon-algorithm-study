@@ -7,8 +7,8 @@
 
 - 일정 : 2023.10.18 ~ ing
 
-- 매주 화요일 10시에 Discord로 진행합니다.
-
+- 매주 화요일 10시에 zep에서 진행합니다.
+    - https://zep.us/play/DwY3Je
 
 
 <br/>
@@ -17,9 +17,9 @@
 
 
 
-| 김민석 | 임대진 | 석하림 | 이다원 |
+| 김민석 | 임대진 | 석하림 | 김소정 |
 | --- | --- | --- | --- |
-| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/limgoing) | [깃허브](https://github.com/harim-000) | [깃허브](https://github.com/dawonss) |
+| [깃허브](https://github.com/mingseok) | [깃허브](https://github.com/limgoing) | [깃허브](https://github.com/harim-000) | [깃허브](https://github.com/zeze1004) |
 
 
 
